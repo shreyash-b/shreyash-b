@@ -1,1 +1,1 @@
-![WIP](https://github.com/shreyash-b/shreyash-b/Images/wip.gif)
+![WIP](https://raw.githubusercontent.com/shreyash-b/shreyash-b/main/Images/wip.gif)
